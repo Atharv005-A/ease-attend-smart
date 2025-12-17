@@ -1,3 +1,3 @@
-# Welcome EaseAttendace
+# Welcome EaseAttendance
 
 
